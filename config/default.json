@@ -1,0 +1,3 @@
+{
+    "mongoURI" : "mongodb+srv://backend:backend@cluster0.c5kmv.mongodb.net/fullstackapp?retryWrites=true&w=majority"
+}
